@@ -1,4 +1,4 @@
-# Mobile-App-Development-Projects
+# Mobile App Development Repositories
 
 # [FriendlyChat App](https://github.com/adansinghani1/FriendlyChaatApp)  
 # [Inventory App](https://github.com/adansinghani1/MobileAppSoloFinal)  
